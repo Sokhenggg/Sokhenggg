@@ -1,15 +1,8 @@
-<h1>
-  👋 Hi, I'm Sokheng
-</h1>
+# 👋 Hi, I'm Sokheng
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;&center=true&width=500&height=50">
-</p>
-
-
-
-# 💫 About Me:
-Software Engineering at Kirirom Institute of Technology 
+💻 Software Engineering Student  
+🚀 Passionate about building web applications  
+📍 Kirirom Institute of Technology
 
 
 ## 🌐 Socials:
